@@ -56,6 +56,4 @@ public class LoginTestsOkhttp {
     }
 }
 
-//homework == registration
-
 //eyJhbGciOiJIUzI1NiJ9.eyJyb2xlcyI6WyJST0xFX1VTRVIiXSwic3ViIjoia2F0ZUBnbWFpbC5jb20iLCJpc3MiOiJSZWd1bGFpdCIsImV4cCI6MTY3NzgyNDY1NCwiaWF0IjoxNjc3MjI0NjU0fQ.sYNRyRWQbUrnb1iZSOjVQE2__CG5Bx93g1pEI68uShU
