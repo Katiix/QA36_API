@@ -39,6 +39,7 @@ public class AddNewContactTestsOkhttp {
         ContactResponseDto resDto = gson.fromJson(response.body().string(), ContactResponseDto.class);
         System.out.println(resDto.getMessage());
 
+
         Assert.assertTrue(resDto.getMessage().contains("Contact was added!"));
     }
 
